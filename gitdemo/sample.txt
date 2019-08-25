@@ -1,0 +1,3 @@
+hi, i am Amar
+this is my first git file
+i like devops
