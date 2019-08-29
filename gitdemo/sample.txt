@@ -3,3 +3,6 @@ this is my first git file
 i like devops
 This is mine
 maltiw
+hi
+everybody
+my name is amar
